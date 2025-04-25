@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. Designed and developed by Muhammad Hasnain.
 
-![ShopEase Screenshot](assests/about.png)
+![ShopEase Screenshot](assests/23.png)
 
 ## Features
 
